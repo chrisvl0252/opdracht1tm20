@@ -6,7 +6,7 @@ function setup() {
   canvas.parent('processing');
   noLoop();
 }
-
+    
 function draw() {
   // groene cirkel zonder rand
   
